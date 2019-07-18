@@ -20,3 +20,8 @@ to see more go to https://zemurilos.github.io/IC_IFSP_2018/
 ## 2018-07-19
 Today I worked at my Scientific Initiation, I did some new examples and tried tested it out at college,
 to see more go to https://zemurilos.github.io/IC_IFSP_2018/
+
+## 2019-07-18
+Working in some projects...
+
+![alt text](http://url/to/img.png)
