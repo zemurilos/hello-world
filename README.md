@@ -24,4 +24,4 @@ to see more go to https://zemurilos.github.io/IC_IFSP_2018/
 ## 2019-07-18
 Working in some projects...
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/zemurilos/hello-world/blob/master/pexels-photo-248797.jpeg)
